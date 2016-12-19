@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CreatureWar()
+comment1.params=
+comment1.target=void\ battle()
+comment1.text=\r\n\ Creates\ two\ seperate\ arrays\ of\ creatures\ and\ has\ them\ "battle"\ each\ other\ via\ methods.\ \r\n\ Winner\ is\ displayed\ after\ the\ results\ are\ printed\ and\ calculated.\r\n\ \r\n
+numComments=2

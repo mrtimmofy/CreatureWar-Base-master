@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elf()
+comment0.text=\r\n\ Constructor\ which\ calls\ the\ superclass\ constructor\ (\ Creature\ )\ \r\n
+comment1.params=
+comment1.target=int\ damage()
+comment1.text=\r\n\ Damage\ function\ which\ returns\ an\ int,\ but\ has\ the\ chance\ to\ critical\ for\ twice\ as\ much\ damage.\r\n\ This\ is\ based\ on\ a\ conditional\ which\ checks\ the\ crit\ field.\r\n\ @return\ int\ damage\r\n
+numComments=2
